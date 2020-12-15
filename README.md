@@ -1,5 +1,5 @@
 # COVID-19-Protein-Sequence-Analysis
-S Protein Sequence Analysis and Visualization
+## S Protein Sequence Analysis and Visualization:
 
 We have identifed how S protein was mutated over the last one year.We
 divided our data into quarters . We parsed our data and used different approaches to analyse
@@ -8,14 +8,15 @@ well as how the DNA sequences varied with time. We used the hierarchy of sequenc
 execute the list of tasks for this project which not only helped us to perform our tasks
 efficiently as well as gave us the desired results.
 
-DataSet: 
-1. data/sequencesData-JanToMarch.csv
-2. data/sequencesData-AprToJune.csv
-3. data/sequencesData-JulToSep.csv
-4. MN908947.fna
+### DataSet: 
+1. Main dataset with unique sequences : sequencesData.csv
+ - data/sequencesData-JanToMarch.csv
+ - data/sequencesData-AprToJune.csv
+ - data/sequencesData-JulToSep.csv
+2. To analyze reference sequence: MN908947.fna
 
 
-Results:
+### Results:
 
 ![image](https://user-images.githubusercontent.com/76032040/102280817-b1b6a480-3ee2-11eb-9bbf-dd14c4709f80.png)
 
