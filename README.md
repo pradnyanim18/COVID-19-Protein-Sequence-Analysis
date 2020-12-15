@@ -8,8 +8,24 @@ well as how the DNA sequences varied with time. We used the hierarchy of sequenc
 execute the list of tasks for this project which not only helped us to perform our tasks
 efficiently as well as gave us the desired results.
 
-Data: 
+DataSet: 
 1. data/sequencesData-JanToMarch.csv
 2. data/sequencesData-AprToJune.csv
 3. data/sequencesData-JulToSep.csv
 4. MN908947.fna
+
+
+Results:
+
+![image](https://user-images.githubusercontent.com/76032040/102280817-b1b6a480-3ee2-11eb-9bbf-dd14c4709f80.png)
+
+
+
+![image](https://user-images.githubusercontent.com/76032040/102280942-e1fe4300-3ee2-11eb-8a48-509447a23e9b.png)
+
+
+![image](https://user-images.githubusercontent.com/76032040/102281030-0a863d00-3ee3-11eb-8f05-b6eea63a4074.png)
+
+![image](https://user-images.githubusercontent.com/76032040/102281098-2853a200-3ee3-11eb-9272-de3b5e2ec63a.png)
+
+![image](https://user-images.githubusercontent.com/76032040/102281131-386b8180-3ee3-11eb-8586-414497a875f4.png)
